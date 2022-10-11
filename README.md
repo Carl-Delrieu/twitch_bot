@@ -3,7 +3,7 @@
 
 - [x] Connect to stream
 
-- [X] Command
+- [x] Command
 
 - [ ] Deploy bot
 
